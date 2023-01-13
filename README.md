@@ -1,6 +1,8 @@
 # 🔎수강 목록 (내림차순)
 
 ## 📍 JPA
+- [실전! Querydsl](https://github.com/waveofmymind/Querydsl-Practice)
+
 - 실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화 ✔️
 
 - 실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발 ✔️✔️

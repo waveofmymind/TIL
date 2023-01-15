@@ -36,3 +36,4 @@
 
 ## 📚 Reference
 - [스프링 부트에서 Request 유효성 검사하는 방법, 서버 개발한다면 꼭 해야하는 작업 Spring Validation](https://jeong-pro.tistory.com/203)
+- [ResponseEntity란?](https://thalals.tistory.com/268)

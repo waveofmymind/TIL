@@ -23,6 +23,8 @@
 
 - [혼자 공부하는 자바](http://www.yes24.com/Product/Goods/74269939) ✔️✔️
 
+- [에러와 예외](https://inpa.tistory.com/entry/JAVA-%E2%98%95-%EC%97%90%EB%9F%ACError-%EC%99%80-%EC%98%88%EC%99%B8-%ED%81%B4%EB%9E%98%EC%8A%A4Exception-%F0%9F%92%AF-%EC%B4%9D%EC%A0%95%EB%A6%AC#thankYou)
+
 ## 🐍 Python
 
 - [다익스트라 알고리즘](https://velog.io/@waveofmymind/다익스트라-알고리즘)

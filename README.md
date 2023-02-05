@@ -29,21 +29,6 @@
 
 - [에러와 예외](https://inpa.tistory.com/entry/JAVA-%E2%98%95-%EC%97%90%EB%9F%ACError-%EC%99%80-%EC%98%88%EC%99%B8-%ED%81%B4%EB%9E%98%EC%8A%A4Exception-%F0%9F%92%AF-%EC%B4%9D%EC%A0%95%EB%A6%AC#thankYou)
 
-## 🐍 Python
+## 학습 내용 적용 리포지토리
 
-- [다익스트라 알고리즘](https://velog.io/@waveofmymind/다익스트라-알고리즘)
-
-- [벨만-포드 알고리즘](https://velog.io/@waveofmymind/벨만-포드-알고리즘)
-
-## Git
-
-- [Git & Github](https://velog.io/@0713vin/Git-GitHub-%EA%B9%83%ED%97%99-%EC%A0%95%EB%A6%ACzip#-git-branch)
-
-## 💭 항상 기억할 것
-- [좋은 객체 지향 프로그래밍](https://velog.io/@waveofmymind/좋은-객체-지향-프로그래밍)
-
-- [좋은 커밋 메시지 작성법](https://cocoon1787.tistory.com/708)
-
-## 📚 Reference
-- [스프링 부트에서 Request 유효성 검사하는 방법, 서버 개발한다면 꼭 해야하는 작업 Spring Validation](https://jeong-pro.tistory.com/203)
-- [ResponseEntity란?](https://thalals.tistory.com/268)
+- [스프링 트랜잭션](https://github.com/waveofmymind/springtx)

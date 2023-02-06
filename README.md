@@ -10,6 +10,9 @@
 - 자바 ORM 표준 JPA 프로그래밍 - 기본편 ✔️
 
 ## 🍃SPRING
+
+- [토비의 스프링 부트 - 이해와 원리](https://github.com/waveofmymind/SpringBoot)
+
 - 스프링 DB 2편 - 데이터 접근 활용 기술 ✔️ 
 
 - 스프링 DB 1편 - 데이터 접근 핵심 원리 ✔️

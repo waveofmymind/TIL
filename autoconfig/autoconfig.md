@@ -41,6 +41,11 @@ ex) @Controller의 경우 DispatcherServlet이 웹 컨트롤러로 판단하고 
 
 예를 들어 @ResponseBody와 @Controller가 합쳐져서 만들어진 **@RestController**가 있다.
 
+## ImportSelector
+
+AutoConfiguration을 @Import 없이 동적으로 하고 싶을 경우, ImportSelector를 구현해서 사용해야한다.
+
+ImportSelector는 애노테이션 메타데이터를 전달받아 Import할 클래스를 String으로 리턴해준다.
 
 
 

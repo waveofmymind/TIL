@@ -47,6 +47,18 @@ AutoConfiguration을 @Import 없이 동적으로 하고 싶을 경우, ImportSel
 
 ImportSelector는 애노테이션 메타데이터를 전달받아 Import할 클래스를 String으로 리턴해준다.
 
+## @Configuration과 proxyBeanMethods
+
+@Configuration의 속성으로는 proxyBeanMethods가 디폴트로 true이다.
+
+이는 스프링 컨테이너가 시작할때 프록시 클래스를 생성후 @Configuration 어노테이션이 붙은 빈 오브젝트로 사용한다.
+
+이를 이용해서 스프링 컨테이너는 하나의 빈을 두개 이상의 빈에서 의존하고 있을 때, 하나의 빈의 인스턴스를 싱글턴으로 관리하도록 한다.
+
+
+
+
+
 
 
 
